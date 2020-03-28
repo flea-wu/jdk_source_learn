@@ -956,6 +956,7 @@ public final class Integer extends Number implements Comparable<Integer> {
      *
      * @return a hash code value for a {@code int} value.
      */
+    // Integer hashCode 方法 返回自己本身
     public static int hashCode(int value) {
         return value;
     }
