@@ -93,6 +93,7 @@ public class HashSet<E>
 {
     static final long serialVersionUID = -5024744406713321676L;
 
+    // 不被序列号
     private transient HashMap<E,Object> map;
 
     // Dummy value to associate with an Object in the backing Map
@@ -102,7 +103,9 @@ public class HashSet<E>
      * Constructs a new, empty set; the backing <tt>HashMap</tt> instance has
      * default initial capacity (16) and load factor (0.75).
      */
+    // 构造器
     public HashSet() {
+        // 初始化一个map
         map = new HashMap<>();
     }
 
@@ -112,17 +115,27 @@ public class HashSet<E>
      * (0.75) and an initial capacity sufficient to contain the elements in
      * the specified collection.
      *
+     * 构造一个包含指定collection中的元素的新set。
+     * 实际底层使用默认的加载因子0.75和足以包含指定collection中所有元素的初始容量来创建一个HashMap。
+     *
      * @param c the collection whose elements are to be placed into this set
      * @throws NullPointerException if the specified collection is null
      */
     public HashSet(Collection<? extends E> c) {
+        // Math.max((int) (c.size()/.75f) + 1, 16)
+        // 小于12，初始化容量为 16；大于 12 则为计算数量
         map = new HashMap<>(Math.max((int) (c.size()/.75f) + 1, 16));
         addAll(c);
     }
 
+
     /**
      * Constructs a new, empty set; the backing <tt>HashMap</tt> instance has
      * the specified initial capacity and the specified load factor.
+     *
+     * 以指定的initialCapacity和loadFactor构造一个空的HashSet。
+     *
+     * 实际底层以相应的参数构造一个空的HashMap
      *
      * @param      initialCapacity   the initial capacity of the hash map
      * @param      loadFactor        the load factor of the hash map
@@ -151,6 +164,14 @@ public class HashSet<E>
      * HashMap instance is a LinkedHashMap with the specified initial
      * capacity and the specified load factor.
      *
+     * 以指定的initialCapacity和loadFactor构造一个新的空链接哈希集合。此构造函数为包访问权限，不对外公开，
+     * 实际只是是对LinkedHashSet的支持。
+     *
+     * 实际底层会以指定的参数构造一个空LinkedHashMap实例来实现。
+     * initialCapacity 初始容量。
+     * loadFactor 加载因子。
+     * dummy 标记。
+     *
      * @param      initialCapacity   the initial capacity of the hash map
      * @param      loadFactor        the load factor of the hash map
      * @param      dummy             ignored (distinguishes this
@@ -178,6 +199,7 @@ public class HashSet<E>
      *
      * @return the number of elements in this set (its cardinality)
      */
+    // 底层调用 map.size 方法
     public int size() {
         return map.size();
     }
@@ -187,6 +209,7 @@ public class HashSet<E>
      *
      * @return <tt>true</tt> if this set contains no elements
      */
+    // 底层调用 map 判断集合是否为空的方法
     public boolean isEmpty() {
         return map.isEmpty();
     }
@@ -200,6 +223,7 @@ public class HashSet<E>
      * @param o element whose presence in this set is to be tested
      * @return <tt>true</tt> if this set contains the specified element
      */
+    // 底层调用 map 是否包含这个key的方法
     public boolean contains(Object o) {
         return map.containsKey(o);
     }
@@ -216,6 +240,7 @@ public class HashSet<E>
      * @return <tt>true</tt> if this set did not already contain the specified
      * element
      */
+    // add 方法调用 map.put 方法 value 值默认为 Object
     public boolean add(E e) {
         return map.put(e, PRESENT)==null;
     }
@@ -232,6 +257,7 @@ public class HashSet<E>
      * @param o object to be removed from this set, if present
      * @return <tt>true</tt> if the set contained the specified element
      */
+    // 底层调用的还是 map 的remove，最后判断移除的元素是否为：PRESENT
     public boolean remove(Object o) {
         return map.remove(o)==PRESENT;
     }
@@ -240,6 +266,7 @@ public class HashSet<E>
      * Removes all of the elements from this set.
      * The set will be empty after this call returns.
      */
+    // 底层调用 map 的clear() ,map 中 clear 方法是将 node节点 设置为null
     public void clear() {
         map.clear();
     }

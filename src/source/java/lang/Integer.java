@@ -846,6 +846,7 @@ public final class Integer extends Number implements Comparable<Integer> {
      * @param   value   the value to be represented by the
      *                  {@code Integer} object.
      */
+    // Integer 构造器
     public Integer(int value) {
         this.value = value;
     }
