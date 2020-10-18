@@ -1,0 +1,197 @@
+
+_$squid:AssignmentInSubExpressionCheckŒ".Extract the assignment out of this expression.(¸Û‚Ï
+d$squid:AssignmentInSubExpressionCheckÕ	".Extract the assignment out of this expression.(ŒÃÖ²øÿÿÿÿ
+8squid:S1659Ê" Declare "mc" on a separate line.(¯ŸÎ
+Š squid:ForLoopCounterChangedCheckâ"XRefactor the code in order to not assign to this loop counter from within the loop body.(™¦ÀŸøÿÿÿÿ
+… squid:ForLoopCounterChangedCheck¼"XRefactor the code in order to not assign to this loop counter from within the loop body.(Õ‘‹­
+Wsquid:S1161Ê":Add the "@Override" annotation above this method signature(àà…åúÿÿÿÿ
+8squid:S1659‘" Declare "mc" on a separate line.(¯ŸÎ
+Š squid:ForLoopCounterChangedCheck‹"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÕÌŞùÿÿÿÿ
+d$squid:AssignmentInSubExpressionCheck	".Extract the assignment out of this expression.(áÒî…ùÿÿÿÿ
+8squid:S1659Æ" Declare "pk" on a separate line.(Ê¿æ‘
+asquid:S2583—"DChange this condition so that it does not always evaluate to "false"(Í¶¬Ñúÿÿÿÿ
+<squid:S1659Ş"$Declare "loTail" on a separate line.(¶í ³
+jsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(÷ƒµ—
+<squid:S1659ß"$Declare "hiTail" on a separate line.(‚™½Ñ
+Š squid:ForLoopCounterChangedCheckú"XRefactor the code in order to not assign to this loop counter from within the loop body.(è„àÿùÿÿÿÿ
+… squid:ForLoopCounterChangedCheck»"XRefactor the code in order to not assign to this loop counter from within the loop body.(šåÅ­
+=squid:S1659û" Declare "lo" on a separate line.(Ö£¶ìÿÿÿÿÿ
+d$squid:AssignmentInSubExpressionCheckı".Extract the assignment out of this expression.(Æ¹°¼şÿÿÿÿ
+_$squid:AssignmentInSubExpressionCheckÅ".Extract the assignment out of this expression.(ÿà°‡
+@squid:S1659Í"#Declare "first" on a separate line.(ºÏåÒùÿÿÿÿ
+d$squid:AssignmentInSubExpressionCheckÔ".Extract the assignment out of this expression.(ŒÃÖ²øÿÿÿÿ
+7squid:S1659¢	"Declare "k" on a separate line.(±Œ÷Ö
+osquid:S3776Ç	"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(ô†úûøÿÿÿÿ
+<squid:S1659Î	"Declare "n" on a separate line.(ºÏåÒùÿÿÿÿ
+7squid:S1659Ø"Declare "k" on a separate line.(±Œ÷Ö
+jsquid:S3776É"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ğ¸¯¡
+;squid:S1659õ"#Declare "index" on a separate line.(¬‘œù
+<squid:S1659Î	"Declare "i" on a separate line.(ºÏåÒùÿÿÿÿ
+d$squid:AssignmentInSubExpressionCheckö".Extract the assignment out of this expression.(áÒî…ùÿÿÿÿ
+… squid:ForLoopCounterChangedCheck "XRefactor the code in order to not assign to this loop counter from within the loop body.(ŸÃÖÀ
+7squid:S1659¹"Declare "k" on a separate line.(íµÛ
+Rsquid:S1161Š":Add the "@Override" annotation above this method signature(ÛÆëô
+<squid:S1659³"Declare "e" on a separate line.(ŸİÊ×ıÿÿÿÿ
+8squid:S1659½" Declare "ph" on a separate line.(Ç€Ñ˜
+Š squid:ForLoopCounterChangedCheckµ"XRefactor the code in order to not assign to this loop counter from within the loop body.(û©¡ÿúÿÿÿÿ
+Rsquid:S1161":Add the "@Override" annotation above this method signature(÷ƒµ—
+7squid:S1659°"Declare "p" on a separate line.(¹Ùô
+Rsquid:S1161É":Add the "@Override" annotation above this method signature(ğ¸¯¡
+squid:S1186÷"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¿û»Ïÿÿÿÿÿ
+osquid:S3776¸"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(„ëÊ’úÿÿÿÿ
+:squid:S1659ö""Declare "pred" on a separate line.(İÑà½
+jsquid:S3776Û"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(‹úíŸ
+Š squid:ForLoopCounterChangedCheck±"XRefactor the code in order to not assign to this loop counter from within the loop body.( ³¢Ìşÿÿÿÿ
+7squid:S1659ô"Declare "p" on a separate line.(œ¶Ö
+d$squid:AssignmentInSubExpressionCheckÓ".Extract the assignment out of this expression.(áÒî…ùÿÿÿÿ
+=squid:S1659" Declare "rl" on a separate line.(ê¾ˆùûÿÿÿÿ
+Lsquid:S1191%"5Use classes from the Java API instead of Sun classes.(Àãé
+8squid:S1659ÿ" Declare "sr" on a separate line.(ñÁ™
+<squid:S1659—	"Declare "i" on a separate line.(ºÏåÒùÿÿÿÿ
+;squid:S1659ª"$Declare "newThr" on a separate line.(üñ­
+asquid:S3358"DExtract this nested ternary operation into an independent statement.(†ÁŸüÿÿÿÿ
+_$squid:AssignmentInSubExpressionCheck©".Extract the assignment out of this expression.(Ñ‡‹à
+<squid:S1659³"Declare "k" on a separate line.(ŸİÊ×ıÿÿÿÿ
+ksquid:S2272È"NAdd a "NoSuchElementException" for iteration beyond the end of the collection.(¡Éº”úÿÿÿÿ
+… squid:ForLoopCounterChangedCheckÅ"XRefactor the code in order to not assign to this loop counter from within the loop body.(¿Ê²û
+=squid:S1659Ü" Declare "as" on a separate line.(ĞµÃĞüÿÿÿÿ
+9squid:S1659õ""Declare "root" on a separate line.(ÇÛîJ
+d$squid:AssignmentInSubExpressionCheckÙ".Extract the assignment out of this expression.(ùõ©‡ûÿÿÿÿ
+Š squid:ForLoopCounterChangedCheck¡"XRefactor the code in order to not assign to this loop counter from within the loop body.(É„”Ÿüÿÿÿÿ
+Wsquid:S1161ı":Add the "@Override" annotation above this method signature(Ÿà¯±ûÿÿÿÿ
+osquid:S3776·"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(«›ğñÿÿÿÿÿ
+7squid:S1659¹"Declare "e" on a separate line.(íµÛ
+asquid:S2583¨"DChange this condition so that it does not always evaluate to "false"(Í¶¬Ñúÿÿÿÿ
+Gsquid:S00108ª")Either remove or fill this block of code.(ÃâÕ—şÿÿÿÿ
+d$squid:AssignmentInSubExpressionCheckø".Extract the assignment out of this expression.(Ñ¸µşÿÿÿÿ
+… squid:ForLoopCounterChangedCheck”"XRefactor the code in order to not assign to this loop counter from within the loop body.(§Õîª
+… squid:ForLoopCounterChangedCheckÚ"XRefactor the code in order to not assign to this loop counter from within the loop body.(¿Ê²û
+Asquid:S1659Í"$Declare "loTail" on a separate line.(œ¸ë•şÿÿÿÿ
+=squid:S1659É" Declare "tb" on a separate line.(ÂİÅ‡úÿÿÿÿ
+=squid:S1659È" Declare "tl" on a separate line.(‹ç¯Åûÿÿÿÿ
+=squid:S1659È" Declare "tr" on a separate line.(‹ç¯Åûÿÿÿÿ
+d$squid:AssignmentInSubExpressionCheckÔ	".Extract the assignment out of this expression.(áÒî…ùÿÿÿÿ
+p
+squid:S135"YReduce the total number of break and continue statements in this loop to use at most one.(ÒŸƒİ
+… squid:ForLoopCounterChangedCheckÅ"XRefactor the code in order to not assign to this loop counter from within the loop body.(¿Ê²û
+… squid:ForLoopCounterChangedCheckí"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÁÆ±Ã
+=squid:S1659Ç" Declare "pr" on a separate line.(Ï¨õíıÿÿÿÿ
+jsquid:S3776ò"RRefactor this method to reduce its Cognitive Complexity from 37 to the 15 allowed.(Ó‹ÕÔ
+=squid:S1659¨" Declare "tl" on a separate line.(¾Õ”Ìûÿÿÿÿ
+_$squid:AssignmentInSubExpressionCheck 	".Extract the assignment out of this expression.(¡ç…
+d$squid:AssignmentInSubExpressionCheck¦".Extract the assignment out of this expression.(Ùÿ÷°øÿÿÿÿ
+=squid:S1659È" Declare "ch" on a separate line.(©ß¹‰øÿÿÿÿ
+7squid:S1659‰" Declare "pl" on a separate line.(·¬óx
+8squid:S1659‘" Declare "hi" on a separate line.(¯ŸÎ
+osquid:S3776¦"RRefactor this method to reduce its Cognitive Complexity from 62 to the 15 allowed.(—âúÿÿÿÿ
+<squid:S1659Ç"Declare "q" on a separate line.(Ï¨õíıÿÿÿÿ
+osquid:S3776±"RRefactor this method to reduce its Cognitive Complexity from 54 to the 15 allowed.(”Ñ¯Âşÿÿÿÿ
+=squid:S1659Ã" Declare "lo" on a separate line.(Ö£¶ìÿÿÿÿÿ
+8squid:S1659¥" Declare "sr" on a separate line.(ã•±û
+Wsquid:S1161":Add the "@Override" annotation above this method signature(ˆ¶÷ºşÿÿÿÿ
+Š squid:ForLoopCounterChangedCheck¹"XRefactor the code in order to not assign to this loop counter from within the loop body.(‘–Ø‚úÿÿÿÿ
+_$squid:AssignmentInSubExpressionCheck²".Extract the assignment out of this expression.(ø°¼ˆ
+osquid:S3776’	"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(²‘šÂÿÿÿÿÿ
+8squid:S1659Ê" Declare "hi" on a separate line.(¯ŸÎ
+7squid:S1659‰" Declare "pr" on a separate line.(·¬óx
+<squid:S1659Í"Declare "n" on a separate line.(ºÏåÒùÿÿÿÿ
+=squid:S1659ˆ" Declare "ph" on a separate line.(Î’­ùÿÿÿÿ
+<squid:S1659ú"Declare "k" on a separate line.(Í¶­øÿÿÿÿ
+… squid:ForLoopCounterChangedCheckÚ"XRefactor the code in order to not assign to this loop counter from within the loop body.(¿Ê²û
+ksquid:S2272¾"NAdd a "NoSuchElementException" for iteration beyond the end of the collection.(Ûò‡ùÿÿÿÿ
+=squid:S1659à" Declare "hc" on a separate line.(…ÃÁüÿÿÿÿ
+Csquid:S1659	"&Declare "oldValue" on a separate line.(½öŒìÿÿÿÿÿ
+_$squid:AssignmentInSubExpressionCheckŒ".Extract the assignment out of this expression.(¸Û‚Ï
+@squid:S1659‰")Declare "replacement" on a separate line.(·¬óx
+Wsquid:S1161Î":Add the "@Override" annotation above this method signature(Îå®åıÿÿÿÿ
+Gsquid:S00108š")Either remove or fill this block of code.(ÃâÕ—şÿÿÿÿ
+psquid:S3776è"SRefactor this method to reduce its Cognitive Complexity from 128 to the 15 allowed.(Öú“¡ıÿÿÿÿ
+7squid:S1659°"Declare "n" on a separate line.(¹Ùô
+@squid:S1659—	"#Declare "first" on a separate line.(ºÏåÒùÿÿÿÿ
+_$squid:AssignmentInSubExpressionCheckÖ".Extract the assignment out of this expression.(¡ç…
+7squid:S1659ô"Declare "i" on a separate line.(œ¶Ö
+_$squid:AssignmentInSubExpressionCheck¥".Extract the assignment out of this expression.(ğÃÜê
+Csquid:S2160Š"+Override the "equals" method in this class.(Ùß“
+>squid:S1659Ã"!Declare "mid" on a separate line.(Ö£¶ìÿÿÿÿÿ
+osquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ˆ¶÷ºşÿÿÿÿ
+… squid:ForLoopCounterChangedCheckõ"XRefactor the code in order to not assign to this loop counter from within the loop body.(å˜’á
+fsquid:S2272Ã"NAdd a "NoSuchElementException" for iteration beyond the end of the collection.(èçÅø
+d$squid:AssignmentInSubExpressionCheckÓ".Extract the assignment out of this expression.(È½šÍúÿÿÿÿ
+7squid:S1659¹"Declare "n" on a separate line.(íµÛ
+Š squid:ForLoopCounterChangedCheckú"XRefactor the code in order to not assign to this loop counter from within the loop body.(è„àÿùÿÿÿÿ
+;squid:S1659°"#Declare "index" on a separate line.(¹Ùô
+_$squid:AssignmentInSubExpressionCheckÄ".Extract the assignment out of this expression.(€¬¡‘
+asquid:S3358ò
+"DExtract this nested ternary operation into an independent statement.(ûá¤óûÿÿÿÿ
+… squid:ForLoopCounterChangedCheck "XRefactor the code in order to not assign to this loop counter from within the loop body.(ŸÃÖÀ
+™squid:S1186ø"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¥‰‚š
+=squid:S1659Ü" Declare "ts" on a separate line.(ĞµÃĞüÿÿÿÿ
+Wsquid:S1161›":Add the "@Override" annotation above this method signature(Ë’ñÿÿÿÿÿ
+Asquid:S1659Î"$Declare "hiTail" on a separate line.(¡×üÊûÿÿÿÿ
+=squid:S1659Š" Declare "lo" on a separate line.(Ö£¶ìÿÿÿÿÿ
+Asquid:S1125µ")Remove the literal "false" boolean value.(›Ó·Î
+8squid:S1659¡" Declare "lr" on a separate line.(Ú»Òâ
+Wsquid:S1161":Add the "@Override" annotation above this method signature(•î’üÿÿÿÿ
+d$squid:AssignmentInSubExpressionCheck	".Extract the assignment out of this expression.(ŒÃÖ²øÿÿÿÿ
+d$squid:AssignmentInSubExpressionCheckâ".Extract the assignment out of this expression.(åˆ»·ùÿÿÿÿ
+asquid:S2583
+"DChange this condition so that it does not always evaluate to "false"(Í¶¬Ñúÿÿÿÿ
+7squid:S1659Ù	"Declare "k" on a separate line.(±Œ÷Ö
+7squid:S1659õ"Declare "e" on a separate line.(¬‘œù
+asquid:S2583Œ
+"DChange this condition so that it does not always evaluate to "false"(Í¶¬Ñúÿÿÿÿ
+<squid:S1659—	"Declare "n" on a separate line.(ºÏåÒùÿÿÿÿ
+>squid:S1659Š"!Declare "mid" on a separate line.(Ö£¶ìÿÿÿÿÿ
+asquid:S2583Ø"DChange this condition so that it does not always evaluate to "false"(Í¶¬Ñúÿÿÿÿ
+Š squid:ForLoopCounterChangedCheckü"XRefactor the code in order to not assign to this loop counter from within the loop body.(½ÆãÛıÿÿÿÿ
+ksquid:S2975­
+"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(²ÈŞ
+8squid:S1659‚" Declare "mc" on a separate line.(¯ŸÎ
+squid:S1186ù"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ö¶’ùÿÿÿÿ
+9squid:S1659Æ"!Declare "dir" on a separate line.(Ê¿æ‘
+8squid:S1659½" Declare "pk" on a separate line.(Ç€Ñ˜
+8squid:S1659‚" Declare "hi" on a separate line.(¯ŸÎ
+<squid:S1659Ü"Declare "t" on a separate line.(ĞµÃĞüÿÿÿÿ
+Rsquid:S1161":Add the "@Override" annotation above this method signature(ß™Í
+8squid:S1659¡" Declare "pp" on a separate line.(Ú»Òâ
+Š squid:ForLoopCounterChangedCheck±"XRefactor the code in order to not assign to this loop counter from within the loop body.( ³¢Ìşÿÿÿÿ
+isquid:S3776Ç"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ÉêŸ*
+>squid:S1659û"!Declare "mid" on a separate line.(Ö£¶ìÿÿÿÿÿ
+_$squid:AssignmentInSubExpressionCheck×	".Extract the assignment out of this expression.(¡ç…
+=squid:S1659É" Declare "tn" on a separate line.(ÂİÅ‡úÿÿÿÿ
+d$squid:AssignmentInSubExpressionCheckı".Extract the assignment out of this expression.(Æ¹°¼şÿÿÿÿ
+<squid:S1659Ü"Declare "p" on a separate line.(ĞµÃĞüÿÿÿÿ
+=squid:S1659ù" Declare "tl" on a separate line.(Àùù¤üÿÿÿÿ
+6squid:S1659î"Declare "v" on a separate line.(œúÅ!
+isquid:S3776Ã"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(®¤Ö3
+Rsquid:S1161Ë":Add the "@Override" annotation above this method signature(¨”Õı
+osquid:S2259Ô"R"NullPointerException" will be thrown when invoking method "compareComparables()".(ª¥è úÿÿÿÿ
+\squid:S3358¾
+"DExtract this nested ternary operation into an independent statement.(Œúèë
+osquid:S3776ï"RRefactor this method to reduce its Cognitive Complexity from 57 to the 15 allowed.(à‡Œİûÿÿÿÿ
+… squid:ForLoopCounterChangedCheckÔ"XRefactor the code in order to not assign to this loop counter from within the loop body.(§Õîª
+d$squid:AssignmentInSubExpressionCheck”".Extract the assignment out of this expression.(ÌÉÒÃüÿÿÿÿ
+_$squid:AssignmentInSubExpressionCheck£".Extract the assignment out of this expression.(Ê–á¨
+<squid:S1659Í"Declare "i" on a separate line.(ºÏåÒùÿÿÿÿ
+<squid:S1659±"Declare "v" on a separate line.(‚òÇàùÿÿÿÿ
+Qsquid:S1161È":Add the "@Override" annotation above this method signature(àÍèt
+;squid:S1659¹"#Declare "first" on a separate line.(íµÛ
+@squid:S1659Î	"#Declare "first" on a separate line.(ºÏåÒùÿÿÿÿ
+osquid:S3776®"RRefactor this method to reduce its Cognitive Complexity from 34 to the 15 allowed.(·ÊƒÒüÿÿÿÿ
+_$squid:AssignmentInSubExpressionCheckÅ".Extract the assignment out of this expression.(ÿà°‡
+jsquid:S3776È"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(í°
+Asquid:S1125")Remove the literal "false" boolean value.(°™à
+=squid:S1659‹" Declare "sl" on a separate line.(‰ñÈİúÿÿÿÿ
+Š squid:ForLoopCounterChangedCheckŸ"XRefactor the code in order to not assign to this loop counter from within the loop body.(òŒöÿÿÿÿÿ
+Š squid:ForLoopCounterChangedCheck‹"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÕÌŞùÿÿÿÿ
+d$squid:AssignmentInSubExpressionCheck“".Extract the assignment out of this expression.(˜ö–ğøÿÿÿÿ
+7squid:S1659õ" Declare "rl" on a separate line.(ÇÛîJ
+_$squid:AssignmentInSubExpressionCheckğ".Extract the assignment out of this expression.(«µêö
+d$squid:AssignmentInSubExpressionCheck‘".Extract the assignment out of this expression.(»ëñûÿÿÿÿ
+=squid:S1659" Declare "pp" on a separate line.(ê¾ˆùûÿÿÿÿ
+d$squid:AssignmentInSubExpressionCheck÷".Extract the assignment out of this expression.(û›µüÿÿÿÿ
+Š squid:ForLoopCounterChangedCheckö"XRefactor the code in order to not assign to this loop counter from within the loop body.(òæ®úÿÿÿÿ
+d$squid:AssignmentInSubExpressionChecká".Extract the assignment out of this expression.(£ëÜüÿÿÿÿ
+jsquid:S3776ù"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(íºı˜
+<squid:S1659³"Declare "v" on a separate line.(ŸİÊ×ıÿÿÿÿ
+7squid:S1659ô"Declare "n" on a separate line.(œ¶Ö

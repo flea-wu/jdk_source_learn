@@ -1,0 +1,22 @@
+
+psquid:ModifiersOrderCheckã"EReorder the modifiers to comply with the Java Language Specification.(Ş¯§€ûÿÿÿÿ
+csquid:CommentedOutCodeLine¶"<This block of commented-out lines of code should be removed.(‘ŞÌÃ
+psquid:ModifiersOrderCheckÓ"EReorder the modifiers to comply with the Java Language Specification.(Äı››şÿÿÿÿ
+\squid:S3358Ó	"DExtract this nested ternary operation into an independent statement.(©¾±±
+<squid:S1659²"Declare "r" on a separate line.(‚ÍÜùøÿÿÿÿ
+Bsquid:S00108Ï")Either remove or fill this block of code.(¼šÎÚ
+csquid:CommentedOutCodeLine¾"<This block of commented-out lines of code should be removed.(šêÅ˜
+ksquid:ModifiersOrderCheckÖ"EReorder the modifiers to comply with the Java Language Specification.(Şççã
+Psquid:UselessParenthesesCheck"!Remove these useless parentheses.(Ø¥…½øÿÿÿÿ
+Gsquid:S00108Ô")Either remove or fill this block of code.(é–³öûÿÿÿÿ
+osquid:S3776•"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(§…‚Õüÿÿÿÿ
+Jsquid:S1135û"2Complete the task associated to this TODO comment.(¥°Õ
+hsquid:CommentedOutCodeLineÆ"<This block of commented-out lines of code should be removed.(é™©ûÿÿÿÿ
+Psquid:UselessParenthesesCheck‹"!Remove these useless parentheses.(¿Íûıÿÿÿÿ
+osquid:S3776”"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(Š£êÓüÿÿÿÿ
+Psquid:S1197"8Move the array designator from the variable to the type.(ú˜“Ó
+Rsquid:S1191•"5Use classes from the Java API instead of Sun classes.(û¾ìŒıÿÿÿÿ
+jsquid:ModifiersOrderCheckM"EReorder the modifiers to comply with the Java Language Specification.(û´¸è
+\squid:S1134û"DTake the required action to fix the issue indicated by this comment.(¥°Õ
+>squid:S1659­"!Declare "len" on a separate line.(Åƒ¥üÿÿÿÿ
+Usquid:S1197‹"8Move the array designator from the variable to the type.(¥Àåòüÿÿÿÿ

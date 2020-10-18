@@ -1,0 +1,32 @@
+
+Wsquid:S1161æ":Add the "@Override" annotation above this method signature(Ş‚ÄÔıÿÿÿÿ
+Rsquid:S1161À":Add the "@Override" annotation above this method signature(‚¨—£
+Wsquid:S1161”":Add the "@Override" annotation above this method signature(¦³üëûÿÿÿÿ
+_$squid:AssignmentInSubExpressionCheckÖ".Extract the assignment out of this expression.(›Œ‡á
+squid:S1319•"iThe type of the "m" object should be an interface such as "Map" rather than the implementation "EnumMap".(ÉÙš
+Rsquid:S1161Ë":Add the "@Override" annotation above this method signature( ©ş™
+Rsquid:S1161×":Add the "@Override" annotation above this method signature(È€úŸ
+Wsquid:S1161":Add the "@Override" annotation above this method signature(İ¢êÍıÿÿÿÿ
+>squid:S3398©"!Move this method into "EntrySet".(½…±‚øÿÿÿÿ
+ksquid:S2975×"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(È€úŸ
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(Àãé
+Rsquid:S1161ı":Add the "@Override" annotation above this method signature(æËÊ
+Wsquid:S1161·":Add the "@Override" annotation above this method signature(İî‹âùÿÿÿÿ
+Rsquid:S1161¤":Add the "@Override" annotation above this method signature(±ì½Ş
+Wsquid:S1161İ":Add the "@Override" annotation above this method signature(ô·ŒÛøÿÿÿÿ
+\squid:HiddenFieldCheckõ"9Rename "size" which hides the field declared at line 104.(´Á
+Rsquid:S1161Š":Add the "@Override" annotation above this method signature(µ„Ô›
+Wsquid:S1161´":Add the "@Override" annotation above this method signature(­­¬Îùÿÿÿÿ
+Wsquid:S1161":Add the "@Override" annotation above this method signature(›¹Şáıÿÿÿÿ
+asquid:HiddenFieldCheck£"9Rename "size" which hides the field declared at line 104.(Ó•š•øÿÿÿÿ
+*squid:S2176È"Rename this class.(œ®å³
+>squid:S3398á"!Move this method into "EntrySet".(†º’Øøÿÿÿÿ
+Wsquid:S1161Ã":Add the "@Override" annotation above this method signature(Ş‚ÄÔıÿÿÿÿ
+osquid:S3776Í"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ÏÇêºúÿÿÿÿ
+osquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(İ¢êÍıÿÿÿÿ
+Rsquid:S1161À":Add the "@Override" annotation above this method signature(ğÜşŠ
+Wsquid:S1068€":Remove this unused "ZERO_LENGTH_ENUM_ARRAY" private field.(ú€½àùÿÿÿÿ
+Wsquid:S1161õ":Add the "@Override" annotation above this method signature(É±»ûÿÿÿÿ
+Wsquid:S1161À":Add the "@Override" annotation above this method signature(¦³üëûÿÿÿÿ
+gsquid:S1206n"PThis class overrides "hashCode()" and should therefore also override "equals()".(ğÜşŠ
+Wsquid:S1161Í":Add the "@Override" annotation above this method signature(ÏÇêºúÿÿÿÿ

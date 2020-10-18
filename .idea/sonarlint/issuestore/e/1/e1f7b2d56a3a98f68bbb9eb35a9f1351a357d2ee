@@ -1,0 +1,67 @@
+
+Usquid:S1197þ	"8Move the array designator from the variable to the type.(·ÞŽ‰øÿÿÿÿ
+_$squid:AssignmentInSubExpressionCheck¥".Extract the assignment out of this expression.(æêÿô
+Usquid:S1197Ã"8Move the array designator from the variable to the type.(¯æâýùÿÿÿÿ
+Rsquid:S1133Ã"5Do not forget to remove this deprecated code someday.(¯æâýùÿÿÿÿ
+Usquid:S1197Ë"8Move the array designator from the variable to the type.(ÅèÙÄÿÿÿÿÿ
+Usquid:S1197Ä
+"8Move the array designator from the variable to the type.(·ÞŽ‰øÿÿÿÿ
+Psquid:S1197Â
+"8Move the array designator from the variable to the type.(Æâ‘þ
+Usquid:S1197ó"8Move the array designator from the variable to the type.(ŒÕË¸ûÿÿÿÿ
+3squid:S3626‡"Remove this redundant jump.(ÉŠ©ƒ
+Psquid:S1197µ"8Move the array designator from the variable to the type.(î¶çö
+csquid:CommentedOutCodeLine´"<This block of commented-out lines of code should be removed.(ÙÐ“Ö
+Psquid:S1197Ž"8Move the array designator from the variable to the type.(«ÀñË
+osquid:S3776Ù"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(Æ•÷þÿÿÿÿ
+Psquid:S1197Å"8Move the array designator from the variable to the type.(óœ¢‡
+Š squid:ForLoopCounterChangedCheckì"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ôèñ¹ÿÿÿÿÿ
+p
+squid:S135Ì
+"YReduce the total number of break and continue statements in this loop to use at most one.(Ÿ“ûæ
+jsquid:S3776™"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(­þšÞ
+Psquid:S1197¾"8Move the array designator from the variable to the type.(çð‡ã
+Usquid:S1197Ø"8Move the array designator from the variable to the type.(¾’ºîøÿÿÿÿ
+jsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 39 to the 15 allowed.(¿ÝÂØ
+Psquid:S1197ü	"8Move the array designator from the variable to the type.(Æâ‘þ
+Osquid:S1197è"8Move the array designator from the variable to the type.(ÁÛôP
+Psquid:S1197Œ"8Move the array designator from the variable to the type.(Å†Ì³
+Psquid:S1197¥"8Move the array designator from the variable to the type.(›­ì§
+Psquid:S1197 "8Move the array designator from the variable to the type.(ùÏÉ¾
+m squid:LabelsShouldNotBeUsedCheckŠ";Refactor the code to remove this label and the need for it.(”¬® øÿÿÿÿ
+osquid:S3776¡"RRefactor this method to reduce its Cognitive Complexity from 39 to the 15 allowed.(°ŠØ’þÿÿÿÿ
+Usquid:S1197¿"8Move the array designator from the variable to the type.(“€Í‰ÿÿÿÿÿ
+Usquid:S1197Ù"8Move the array designator from the variable to the type.(£‚èüÿÿÿÿ
+p
+squid:S135‹"YReduce the total number of break and continue statements in this loop to use at most one.(àÁ€©
+Usquid:S1197†	"8Move the array designator from the variable to the type.(£‚èüÿÿÿÿ
+Msquid:S1133ó"5Do not forget to remove this deprecated code someday.(ÕãýŸ
+… squid:ForLoopCounterChangedCheck•"XRefactor the code in order to not assign to this loop counter from within the loop body.(ò§©Û
+Usquid:S1197°"8Move the array designator from the variable to the type.(Ó°ù³þÿÿÿÿ
+Esquid:S1125Ò"(Remove the literal "true" boolean value.(èÒÀïÿÿÿÿÿ
+Usquid:S1197…	"8Move the array designator from the variable to the type.(¾’ºîøÿÿÿÿ
+Usquid:S1197¼"8Move the array designator from the variable to the type.(£ëÎ–ÿÿÿÿÿ
+Tsquid:S1197r"8Move the array designator from the variable to the type.(”ÀÄ¿ÿÿÿÿÿ
+Usquid:S1197ú"8Move the array designator from the variable to the type.(¾’ºîøÿÿÿÿ
+h squid:LabelsShouldNotBeUsedCheckÞ";Refactor the code to remove this label and the need for it.(‰á„‰
+Psquid:S1197Ó"8Move the array designator from the variable to the type.(„Å‚Ö
+Msquid:S1133é"5Do not forget to remove this deprecated code someday.(Èú¦
+Psquid:S1197ž"8Move the array designator from the variable to the type.(¢ÿ›¢
+Psquid:S1197é"8Move the array designator from the variable to the type.(è¨õË
+_$squid:AssignmentInSubExpressionCheck¢".Extract the assignment out of this expression.(Áá¸œ
+isquid:S3776’"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ä¬Ãj
+hsquid:CommentedOutCodeLineâ"<This block of commented-out lines of code should be removed.(¹Ùí¥þÿÿÿÿ
+Psquid:S1197‚"8Move the array designator from the variable to the type.(Þ¤¹
+Osquid:S1197ð"8Move the array designator from the variable to the type.(•‡Œ 
+Psquid:S1197û"8Move the array designator from the variable to the type.(íìÉé
+Usquid:S1197¨"8Move the array designator from the variable to the type.(¾’ºîøÿÿÿÿ
+Psquid:S1197×"8Move the array designator from the variable to the type.(µ‚Ö
+Psquid:S1197ó"8Move the array designator from the variable to the type.(ÕãýŸ
+Psquid:S1197û
+"8Move the array designator from the variable to the type.(Æâ‘þ
+m squid:LabelsShouldNotBeUsedCheckª";Refactor the code to remove this label and the need for it.(”¬® øÿÿÿÿ
+osquid:S3776î"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ƒÛï³ýÿÿÿÿ
+Psquid:S1197ý
+"8Move the array designator from the variable to the type.(–³ìÀ
+Psquid:S1197é"8Move the array designator from the variable to the type.(Èú¦
+Psquid:S1197¥"8Move the array designator from the variable to the type.(äßòÝ
